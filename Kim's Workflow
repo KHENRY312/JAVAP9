@@ -1,0 +1,28 @@
+Kim's Workflow for Programming
+Select Issue
+Open in YouTrack
+Update fields
+Create class & code
+Run code
+    Fix any errors
+Create javadoc folder
+Generate JavaDoc
+Add files src, out, and generated to VCS
+Commit & Push files
+Change status to Approved
+
+Approved:
+    Review in Upsource
+
+Fixed:
+    Made Corrections
+
+Verified:
+    Problems fixed
+    Generate JavaDocs
+    Add files
+    Commit & Push files
+
+ Upsource Workflow:
+     Accept Changes
+    Close Review
