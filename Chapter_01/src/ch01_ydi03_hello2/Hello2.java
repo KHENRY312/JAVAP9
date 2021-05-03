@@ -4,22 +4,21 @@
  */
 
 package ch01_ydi03_hello2;
-/*
-Project:             JAVAP9
-Module:            Chapter_02
-Package:          ch01_ydi03_hello2
-Class:               ch01_ydi03_hello2
-Programmer:    Kimberly Henry
-Date:                 Fri, 30-Apr-2021
-Time:                8:21 PM
-*/
+/**
+ * Project:            JAVAP9
+ * Module:           Chapter_01
+ * Package:          ch01_ydi03_hello2
+ * Class:              Hello2
+ * Programmer:   Kimberly Henry
+ * Date:               Mon, 03-May-2021
+ */
 public class Hello2
-	{
-		public static void main(String[] args)
-			{
-				System.out.println("Hello, world!");
-				System.exit(0);
-			}
-		/* This class demonstrates the use of the println()
-		method to print the message Hello, world! */
-	}
+   {
+      public static void main(String[] arg)
+         {
+            System.out.println("Hello world!");
+            
+            /*This class demonstrates the use of the println()
+            method to print thee message Hello, world!*/
+         }
+   }
