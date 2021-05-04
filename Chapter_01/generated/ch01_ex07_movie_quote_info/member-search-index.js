@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch01_ex07_movie_quote_info","c":"MovieQuoteInfo","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch01_ex07_movie_quote_info","c":"MovieQuoteInfo","l":"MovieQuoteInfo()","u":"%3Cinit%3E()"}];updateSearchResults();
