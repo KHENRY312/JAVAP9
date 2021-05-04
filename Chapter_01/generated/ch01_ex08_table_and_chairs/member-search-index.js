@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch01_ex08_table_and_chairs","c":"TableAndChairs","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch01_ex08_table_and_chairs","c":"TableAndChairs","l":"TableAndChairs()","u":"%3Cinit%3E()"}];updateSearchResults();
