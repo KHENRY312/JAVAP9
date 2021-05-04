@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch01_ex09_triangle","c":"Triangle","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch01_ex09_triangle","c":"Triangle","l":"Triangle()","u":"%3Cinit%3E()"}];updateSearchResults();
