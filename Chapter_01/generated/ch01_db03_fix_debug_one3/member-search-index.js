@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch01_db03_fix_debug_one3","c":"FixDebugOne3","l":"FixDebugOne3()","u":"%3Cinit%3E()"},{"p":"ch01_db03_fix_debug_one3","c":"FixDebugOne3","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
