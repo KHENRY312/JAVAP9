@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch02_ydi05_integer_demo_interactive_with_name","c":"IntegerDemoInteractiveWithName","l":"IntegerDemoInteractiveWithName()","u":"%3Cinit%3E()"},{"p":"ch02_ydi05_integer_demo_interactive_with_name","c":"IntegerDemoInteractiveWithName","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

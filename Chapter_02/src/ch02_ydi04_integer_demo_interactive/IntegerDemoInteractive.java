@@ -22,14 +22,10 @@ public class IntegerDemoInteractive
             System.out.print("Please enter another integer ---> ");
             int anotherInt = keyboard.nextInt();
             anotherInt = anInt * 10000000;
-            keyboard.nextLine();
-            System.out.print("Please enter your name ---> ");
-            String name = keyboard.next();
             System.out.println("The int is " + anInt);
             System.out.println("The byte is " + aByte);
             System.out.println("The short is " + aShort);
             System.out.println("The long is " + aLong);
             System.out.println("Another int is " + anotherInt);
-            System.out.println("Thank you, " + name);
          }
    }
