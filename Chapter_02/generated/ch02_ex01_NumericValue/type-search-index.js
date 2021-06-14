@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch02_ex01_numeric_values","l":"NumericValues"}];updateSearchResults();

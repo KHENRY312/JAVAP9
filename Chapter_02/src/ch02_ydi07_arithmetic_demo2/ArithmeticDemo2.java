@@ -4,12 +4,12 @@
  *  assignments.
  */
 
-package ch02_ydi06_arithmetic_demo2;
+package ch02_ydi07_arithmetic_demo2;
 import java.util.Scanner;
 /**
  * Project:            JP9
  * Module:           Chapter_02
- * Package:          ch02_ydi06_arithmetic_demo2
+ * Package:          ch02_ydi07_arithmetic_demo2
  * Class:              ArithmeticDemo2
  * Programmer:   Kimberly Henry
  * Date:               Sat, 12-Jun-2021

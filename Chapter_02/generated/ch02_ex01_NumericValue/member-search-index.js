@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch02_ex01_numeric_values","c":"NumericValues","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch02_ex01_numeric_values","c":"NumericValues","l":"NumericValues()","u":"%3Cinit%3E()"}];updateSearchResults();
