@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch02_ex02_boolean_expressions","l":"BooleanExpressions"}];updateSearchResults();
