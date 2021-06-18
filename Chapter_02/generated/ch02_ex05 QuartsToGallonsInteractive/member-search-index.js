@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch02_ex05_quarts_to_gallon_interactive","c":"QuartsToGallonInteractive","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch02_ex05_quarts_to_gallon_interactive","c":"QuartsToGallonInteractive","l":"QuartsToGallonInteractive()","u":"%3Cinit%3E()"}];updateSearchResults();
