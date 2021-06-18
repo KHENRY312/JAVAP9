@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch02_ex04_quarts_to_gallons","l":"QuartsToGallon"}];updateSearchResults();
