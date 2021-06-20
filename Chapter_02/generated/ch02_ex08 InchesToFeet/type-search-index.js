@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch02_ex08_inches_to_feet","l":"InchesToFeet"}];updateSearchResults();
