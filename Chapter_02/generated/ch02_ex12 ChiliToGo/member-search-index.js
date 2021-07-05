@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch02_ex12_chili_to_go","c":"ChiliToGo","l":"ChiliToGo()","u":"%3Cinit%3E()"},{"p":"ch02_ex12_chili_to_go","c":"ChiliToGo","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
