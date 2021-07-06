@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch02_ex13_chili_to_go_profit","l":"ChiliToGoProfit"}];updateSearchResults();
