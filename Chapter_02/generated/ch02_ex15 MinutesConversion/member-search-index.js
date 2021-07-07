@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch02_ex15_minutes_conversion","c":"MinuteConversion","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch02_ex15_minutes_conversion","c":"MinuteConversion","l":"MinuteConversion()","u":"%3Cinit%3E()"}];updateSearchResults();
