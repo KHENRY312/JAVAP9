@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch02_ex16_election_statistics","c":"ElectionStatistics","l":"ElectionStatistics()","u":"%3Cinit%3E()"},{"p":"ch02_ex16_election_statistics","c":"ElectionStatistics","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
