@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch02_db02_debug_two2","c":"DebugTwo2","l":"DebugTwo2()","u":"%3Cinit%3E()"},{"p":"ch02_db02_debug_two2","c":"DebugTwo2","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
