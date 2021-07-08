@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch02_db04_debug_two4","l":"FixDebugTwo4"}];updateSearchResults();
