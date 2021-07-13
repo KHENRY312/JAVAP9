@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch03_ex01_legal_method_calls","c":"LegalMethodCalls","l":"LegalMethodCalls()","u":"%3Cinit%3E()"},{"p":"ch03_ex01_legal_method_calls","c":"LegalMethodCalls","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch03_ex01_legal_method_calls","c":"LegalMethodCalls","l":"mathMethod(int)"}];updateSearchResults();
