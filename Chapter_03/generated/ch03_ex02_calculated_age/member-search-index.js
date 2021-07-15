@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch03_ex02_calculated_age","c":"calculatedAge","l":"calculate(int, double)","u":"calculate(int,double)"},{"p":"ch03_ex02_calculated_age","c":"calculatedAge","l":"calculatedAge()","u":"%3Cinit%3E()"},{"p":"ch03_ex02_calculated_age","c":"calculatedAge","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
