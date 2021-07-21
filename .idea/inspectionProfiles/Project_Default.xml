@@ -11,6 +11,7 @@
       </Languages>
     </inspection_tool>
     <inspection_tool class="IgnoreFileDuplicateEntry" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MissingTestClass" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
     <inspection_tool class="TrailingSpacesInProperty" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="UnusedAssignment" enabled="false" level="WARNING" enabled_by_default="false">
       <option name="REPORT_PREFIX_EXPRESSIONS" value="false" />
