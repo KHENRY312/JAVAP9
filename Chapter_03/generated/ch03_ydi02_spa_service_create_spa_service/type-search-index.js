@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch03_ydi02_spa_service_create_spa_service","l":"CreateSpaService"},{"p":"ch03_ydi02_spa_service_create_spa_service","l":"SpaService"}];updateSearchResults();

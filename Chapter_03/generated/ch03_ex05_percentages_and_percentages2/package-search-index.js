@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch03_ex05_percentages_and_percentages2"}];updateSearchResults();
