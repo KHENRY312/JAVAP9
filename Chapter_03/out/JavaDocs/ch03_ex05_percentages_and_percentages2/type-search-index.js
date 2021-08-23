@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch03_ex05_percentages_and_percentages2","l":"Percentages"},{"p":"ch03_ex05_percentages_and_percentages2","l":"Percentages2"}];updateSearchResults();

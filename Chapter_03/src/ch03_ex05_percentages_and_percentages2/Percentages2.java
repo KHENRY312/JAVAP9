@@ -19,19 +19,20 @@ public class Percentages2
       public static void main(String[] args)
          {
             Scanner keyboard = new Scanner(System.in);
+            double a;
+            double b;
             System.out.print("Please enter a double:  ");
-            double a = keyboard.nextDouble();
-            keyboard.nextLine();
-            System.out.print("Enter another double, please:  ");
-            double b = keyboard.nextDouble();
-            System.out.println("Double a is " + a + "\nDouble b is " + b);
+             a = keyboard.nextDouble();
+             System.out.print("Please enter another double: ");
+             b = keyboard.nextDouble();
             System.out.println();
             computePercent(a, b);
             computePercent(b, a);
          }
       public static void computePercent(double a, double b)
          {
-            double c = Math.round(a / b *100);
+            double c = Math.round(a / b * 100);
             System.out.println(a + " is " + c + " % of " + b + ".");
+            System.out.println();
          }
    }
