@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch03_ydi01_paradise_info_info2_and_test_info"}];updateSearchResults();

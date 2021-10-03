@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch03_ex04_numbers_and_numbers2","l":"Numbers"},{"p":"ch03_ex04_numbers_and_numbers2","l":"Numbers2"}];updateSearchResults();

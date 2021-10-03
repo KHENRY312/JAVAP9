@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch03_ex02_calculated_age","l":"calculatedAge"}];updateSearchResults();

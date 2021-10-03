@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch03_ydi02_spa_service_create_spa_service"}];updateSearchResults();
