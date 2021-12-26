@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch03_ex08_paint_calculator","l":"PaintCalculator"}];updateSearchResults();
